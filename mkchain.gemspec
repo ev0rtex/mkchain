@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'mkchain'
-  s.version = '1.0.3'
+  s.version = '1.0.4'
   s.authors = ['David Adams']
   s.email = 'dadams@instructure.com'
   s.date = Time.now.strftime('%Y-%m-%d')
